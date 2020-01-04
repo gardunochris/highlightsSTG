@@ -134,7 +134,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #18dcec !important;
+  background-color: #ff7f9f !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -150,8 +150,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #18dcec !important;
-  border-color: #18dcec !important;
+  background-color: #ff7f9f !important;
+  border-color: #ff7f9f !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -159,14 +159,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #0e9eaa !important;
-  border-color: #0e9eaa !important;
+  background-color: #ff3266 !important;
+  border-color: #ff3266 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #0e9eaa !important;
-  border-color: #0e9eaa !important;
+  background-color: #ff3266 !important;
+  border-color: #ff3266 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -314,22 +314,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #0c8892;
-  color: #0c8892;
+  border-color: #ff1952;
+  color: #ff1952;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #18dcec;
-  border-color: #18dcec;
+  background-color: #ff7f9f;
+  border-color: #ff7f9f;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #18dcec !important;
-  border-color: #18dcec !important;
+  background-color: #ff7f9f !important;
+  border-color: #ff7f9f !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -466,7 +466,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #18dcec !important;
+  color: #ff7f9f !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -491,7 +491,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #0c8892 !important;
+  color: #ff1952 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -549,8 +549,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #18dcec;
-  border-color: #18dcec;
+  background-color: #ff7f9f;
+  border-color: #ff7f9f;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -567,11 +567,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #18dcec;
+  color: #ff7f9f;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #d4f9fc;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -692,7 +692,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #18dcec;
+  border-color: #ff7f9f;
   border-width: 3px;
 }
 ul,
@@ -781,7 +781,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #18dcec;
+  border-color: #ff7f9f;
   color: #232323;
   cursor: pointer;
 }
@@ -792,7 +792,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #18dcec;
+  background: #ff7f9f;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -800,11 +800,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #18dcec;
+  background: #ff7f9f;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #18dcec;
+  color: #ff7f9f;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1386,7 +1386,7 @@ body {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #18dcec;
+  background-color: #ff7f9f;
   color: #ffffff;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
@@ -1399,14 +1399,14 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #18dcec;
-  border-bottom-color: #18dcec;
+  border-top-color: #ff7f9f;
+  border-bottom-color: #ff7f9f;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
   color: #000000 !important;
-  background-color: #18dcec !important;
+  background-color: #ff7f9f !important;
   box-shadow: none!important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -1817,21 +1817,31 @@ body {
 .cid-rGHOVQuOwp {
   background-image: url("../../../assets/images/natural-blonde-hair-fact-1170x530.jpg");
 }
-.cid-rKtNhy6wQo {
+.cid-rMyLy5fvVu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
-.cid-rKtNhy6wQo h1 {
-  color: #616161;
+.cid-rMyLy5fvVu .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-rKtNhy6wQo h2,
-.cid-rKtNhy6wQo h3,
-.cid-rKtNhy6wQo p {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-rMyLy5fvVu .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
 }
-.cid-rKtNhy6wQo .mbr-section-subtitle {
-  font-style: italic;
+@media (max-width: 991px) {
+  .cid-rMyLy5fvVu .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rMyLy5fvVu .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rKtTO73Kae .modal-body .close {
   background: #1b1b1b;
@@ -2074,8 +2084,7 @@ body {
 .cid-rKtFDBDdha {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #e4d295;
-  background: linear-gradient(#e4d295, #efefef);
+  background-image: url("../../../assets/images/best-blonde-hair-shades-for-skin-tone-1500x750.jpg");
 }
 .cid-rKtFDBDdha .carousel-control {
   background: #000;
@@ -2453,5 +2462,5 @@ body {
 .cid-rKtXuZ4wCQ {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #b1a374;
+  background-color: #ff7f9f;
 }
