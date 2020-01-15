@@ -1828,7 +1828,7 @@ body {
 .cid-rMyLy5fvVu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1-1920x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-rMyLy5fvVu .media-container-row {
   flex-direction: row-reverse;
@@ -2108,7 +2108,7 @@ body {
 .cid-rKtxo1fMqs {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-rKtxo1fMqs h2 {
   margin-bottom: 0;
@@ -2188,7 +2188,7 @@ body {
 .cid-rNGtiFXTNM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-2-1920x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-rNGtiFXTNM .testimonials-container {
   margin: 0 auto;
@@ -2230,10 +2230,16 @@ body {
     padding: 0 2rem 2rem 2rem !important;
   }
 }
+.cid-rNGtiFXTNM H2 {
+  color: #4f4943;
+}
+.cid-rNGtiFXTNM .mbr-section-subtitle {
+  color: #4f4943;
+}
 .cid-rKtFDBDdha {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-3-1920x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-rKtFDBDdha .carousel-control {
   background: #000;
@@ -2444,7 +2450,7 @@ body {
 .cid-rKu27UVFWt {
   padding-top: 45px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-2-1920x1920.jpg");
+  background-color: #ffffff;
 }
 .cid-rKu27UVFWt .title {
   margin-bottom: 2rem;
