@@ -2439,7 +2439,7 @@ body {
   color: #484444;
 }
 #instagram-feed-block-i .inst__title {
-  color: #232323;
+  color: #4f4943;
 }
 .cid-rKu27UVFWt {
   padding-top: 45px;
@@ -2450,7 +2450,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rKu27UVFWt .mbr-section-subtitle {
-  color: #232323;
+  color: #4f4943;
 }
 .cid-rKu27UVFWt a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2463,7 +2463,7 @@ body {
   min-height: 188px;
 }
 .cid-rKu27UVFWt H2 {
-  color: #232323;
+  color: #4f4943;
 }
 .cid-rKtzgfcHNf {
   padding-top: 90px;
@@ -2518,6 +2518,12 @@ body {
   .cid-rKtzgfcHNf div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rKtzgfcHNf H2 {
+  color: #4f4943;
+}
+.cid-rKtzgfcHNf H5 {
+  color: #4f4943;
 }
 .cid-rNGNDEzd8i {
   padding-top: 60px;
