@@ -144,7 +144,7 @@ body {
   background-color: #82786e !important;
 }
 .bg-warning {
-  background-color: #232323 !important;
+  background-color: #879a9f !important;
 }
 .bg-danger {
   background-color: #b1a374 !important;
@@ -231,8 +231,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #232323 !important;
-  border-color: #232323 !important;
+  background-color: #879a9f !important;
+  border-color: #879a9f !important;
   color: #ffffff !important;
 }
 .btn-warning:hover,
@@ -240,14 +240,14 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #617479 !important;
+  border-color: #617479 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #000000 !important;
-  border-color: #000000 !important;
+  background-color: #617479 !important;
+  border-color: #617479 !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -395,22 +395,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #000000;
-  color: #000000;
+  border-color: #55666b;
+  color: #55666b;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #232323;
-  border-color: #232323;
+  background-color: #879a9f;
+  border-color: #879a9f;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #232323 !important;
-  border-color: #232323 !important;
+  background-color: #879a9f !important;
+  border-color: #879a9f !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -479,7 +479,7 @@ body {
   color: #82786e !important;
 }
 .text-warning {
-  color: #232323 !important;
+  color: #879a9f !important;
 }
 .text-danger {
   color: #b1a374 !important;
@@ -508,7 +508,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #000000 !important;
+  color: #55666b !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -529,7 +529,7 @@ a.text-black:focus {
   background-color: #82786e;
 }
 .alert-warning {
-  background-color: #232323;
+  background-color: #879a9f;
 }
 .alert-danger {
   background-color: #b1a374;
@@ -584,7 +584,7 @@ a:hover {
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #d5d5d5;
+  color: #ced6d8;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -1819,16 +1819,16 @@ body {
   background-image: url("../../../assets/images/loreal-paris-bmag-article-hair-highlights-foil-vs-balayage-vs-foilayage-d-1280x720.jpg");
 }
 .cid-rGHOVQuOwp H1 {
-  color: #4f4943;
+  color: #ffffff;
 }
 .cid-rGHOVQuOwp .mbr-text,
 .cid-rGHOVQuOwp .mbr-section-btn {
-  color: #4f4943;
+  color: #ffffff;
 }
 .cid-rMyLy5fvVu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1920.jpg");
 }
 .cid-rMyLy5fvVu .media-container-row {
   flex-direction: row-reverse;
@@ -2108,7 +2108,7 @@ body {
 .cid-rKtxo1fMqs {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
 }
 .cid-rKtxo1fMqs h2 {
   margin-bottom: 0;
@@ -2188,7 +2188,7 @@ body {
 .cid-rNGtiFXTNM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-2-1920x1920.jpg");
 }
 .cid-rNGtiFXTNM .testimonials-container {
   margin: 0 auto;
@@ -2233,7 +2233,7 @@ body {
 .cid-rKtFDBDdha {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/best-blonde-hair-shades-for-skin-tone-1500x750.jpg");
+  background-image: url("../../../assets/images/mbr-3-1920x1920.jpg");
 }
 .cid-rKtFDBDdha .carousel-control {
   background: #000;
@@ -2439,18 +2439,18 @@ body {
   color: #484444;
 }
 #instagram-feed-block-i .inst__title {
-  color: #484444;
+  color: #232323;
 }
 .cid-rKu27UVFWt {
   padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-2-1920x1920.jpg");
 }
 .cid-rKu27UVFWt .title {
   margin-bottom: 2rem;
 }
 .cid-rKu27UVFWt .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rKu27UVFWt a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2461,6 +2461,9 @@ body {
 }
 .cid-rKu27UVFWt textarea.form-control {
   min-height: 188px;
+}
+.cid-rKu27UVFWt H2 {
+  color: #232323;
 }
 .cid-rKtzgfcHNf {
   padding-top: 90px;
@@ -2515,6 +2518,11 @@ body {
   .cid-rKtzgfcHNf div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rNGNDEzd8i {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rGHOQGlp6b .navbar {
   background: #ffffff;
