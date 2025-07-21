@@ -1,2 +1,2 @@
-# highlightsfresno
+# highlightsSTG
 GitHub Pages
